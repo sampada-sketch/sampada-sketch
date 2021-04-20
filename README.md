@@ -29,7 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/Give me more Data!"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Give me more Data!" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sampada-sketch&show_icons=true&locale=en&layout=compact" alt="sampada-sketch" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sampada-sketch&show_icons=true&locale=en" alt="sampada-sketch" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sampada-sketch&" alt="sampada-sketch" /></p>
