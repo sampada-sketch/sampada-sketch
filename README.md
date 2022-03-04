@@ -1,8 +1,7 @@
 
 ### Let's start without Hello
-         I am Sampada Suwal and I am a Learner, researcher and I do my own experimental Data Visualization in R-Studio.
-         My favorite matter of concern are Data Visualization, Data Mining and Statistical Analysis. 
-         Before jumping to R studio , I recommend "MASTER EXCEL (LIKE PROPERLY - WITH FUNCTIONS AND FORMULAS)"
+         I am Sampada Suwal and I am a Learner and I do my own experimental Data Visualization in R-Studio and I do front-end aswell as back-end coding.
+         My favorite matter of concern are Data Visualization, Data Mining,Statistical Analysis and Web Development."
            
 <h1 align="center">It's Sampada Suwal</h1>
 <h3 align="center">A passionate Data Science Learner!</h3>
